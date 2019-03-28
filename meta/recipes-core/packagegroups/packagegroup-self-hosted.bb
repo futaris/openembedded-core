@@ -101,8 +101,7 @@ RDEPENDS_packagegroup-self-hosted-debug = " \
     gdb \
     gdbserver \
     rsync \
-    strace \
-    tcf-agent"
+    strace"
 
 
 RDEPENDS_packagegroup-self-hosted-extended = "\
