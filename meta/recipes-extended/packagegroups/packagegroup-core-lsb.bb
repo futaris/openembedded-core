@@ -150,7 +150,6 @@ RDEPENDS_packagegroup-core-lsb-core = "\
     fontconfig-utils \
     foomatic-filters \
     gawk \
-    ghostscript \
     grep \
     gzip \
     localedef \

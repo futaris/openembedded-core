@@ -31,6 +31,7 @@ SANITIZERS_arc = ""
 SANITIZERS_microblaze = ""
 SANITIZERS_mipsarch = ""
 SANITIZERS_nios2 = ""
+SANITIZERS_riscv32 = ""
 SANITIZERS_riscv64 = ""
 SANITIZERS_libc-musl = ""
 

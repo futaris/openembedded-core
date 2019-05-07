@@ -64,6 +64,8 @@ EXTRA_OECONF_append_mipsisa32r6 = " --with-abi=32 --with-arch=mips32r6"
 EXTRA_OECONF_append_mipsisa64r6el = " --with-abi=64 --with-arch-64=mips64r6"
 EXTRA_OECONF_append_mipsisa64r6 = " --with-abi=64 --with-arch-64=mips64r6"
 
+EXTRA_OECONF_append_riscv32 = " --with-arch=rv32ima --with-abi=ilp32"
+
 EXTRA_OECONF_GCC_FLOAT ??= ""
 CPPFLAGS = ""
 
